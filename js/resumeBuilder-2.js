@@ -12,7 +12,7 @@ $(document).click(function(loc) {
 var bio = {
          "name": "Kelley Sylvester",
          "role": "Web Developer",
-         "skills": ["Writing Dope Songs","Making Sick Beats","Vampire by night","Guitar Hero","Hippie"],
+         "skills": ["HTML","CSS","Javascript","Ajax","React","Bootstrap"],
          "welcomeMessage": "Hi, How's life?",
          "biopic": "images/anthy.jpg",
          "contacts": { 
