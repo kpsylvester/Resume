@@ -1,5 +1,5 @@
 # Resume
 
-## This resume is made entirely from pure javascript, HTML, and CSS
+## This is my resume made entirely from pure javascript, HTML, and CSS
 
-I'm pretty cool because its also responsive ^_^
+It's pretty cool because its also responsive ^_^
